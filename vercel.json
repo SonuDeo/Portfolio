@@ -12,7 +12,7 @@
       ]
     },
     {
-      "source": "/sonu.jpg",
+      "source": "/sonu.jpeg",
       "headers": [
         {
           "key": "Cache-Control",
