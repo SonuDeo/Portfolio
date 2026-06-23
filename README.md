@@ -1,13 +1,13 @@
 # Sonu Kumar — Portfolio
 
 <p>
-  <a href="https://sonu-kumar.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-sonu--kumar.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
+  <a href="https://portfolio-w5p8.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-portfolio--w5p8.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
   <a href="https://github.com/SonuDeo"><img src="https://img.shields.io/badge/GitHub-SonuDeo-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 A premium, animated portfolio for **Sonu Kumar**, Data Analyst & AI Automation Engineer. Built to feel like a polished startup product and make a strong impression within the first few seconds.
 
-**🔗 Live:** [sonu-kumar.vercel.app](https://sonu-kumar.vercel.app)
+**🔗 Live:** [portfolio-w5p8.vercel.app](https://portfolio-w5p8.vercel.app)
 
 > **Headline:** Transforming Data Into Intelligent Business Decisions
 
