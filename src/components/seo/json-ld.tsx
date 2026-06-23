@@ -6,7 +6,7 @@ export function JsonLd() {
     "@type": "Person",
     name: site.name,
     url: site.url,
-    image: `${site.url}/sonu.jpg`,
+    image: `${site.url}${site.photo}`,
     jobTitle: "Data Analyst & AI Automation Engineer",
     email: `mailto:${site.email}`,
     telephone: site.phone,

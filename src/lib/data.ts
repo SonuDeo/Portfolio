@@ -26,6 +26,9 @@ export const site = {
   githubUser: "SonuDeo",
   linkedin: "https://linkedin.com/in/sonu-45-kumar/",
   resume: "/Sonu_Kumar_Resume.pdf",
+  // 👇 Your hero/profile photo. Put the file in /public and set its path here.
+  //    e.g. "/sonu.jpg", "/sonu.png", or "/me.webp"
+  photo: "/sonu.jpg",
   headline: "Transforming Data Into Intelligent Business Decisions",
   subheadline:
     "Data Analyst, AI Automation Engineer, and Computer Science student building data-driven systems and intelligent workflows.",

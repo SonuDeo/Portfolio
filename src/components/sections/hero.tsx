@@ -118,7 +118,7 @@ export function Hero() {
 
           <div className="relative aspect-[3/4] overflow-hidden rounded-[1.75rem] border border-border/70 bg-card shadow-2xl">
             <Image
-              src="/sonu.jpg"
+              src={site.photo}
               alt="Sonu Kumar — Data Analyst & AI Automation Engineer"
               fill
               priority

@@ -19,7 +19,7 @@ const REVALIDATE_SECONDS = 3600;
 const FALLBACK_PROFILE: GitHubProfile = {
   login: site.githubUser,
   name: site.name,
-  avatarUrl: "/sonu.jpg",
+  avatarUrl: site.photo,
   bio: site.tagline,
   publicRepos: 30,
   followers: 0,
