@@ -18,7 +18,7 @@ export const site = {
   name: "Sonu Kumar",
   role: "Data Analyst · AI Automation Engineer",
   longRole: "Data Analyst | AI Automation Engineer | Computer Science Engineer",
-  url: "https://sonu-kumar.vercel.app",
+  url: "https://portfolio-lime-three-16.vercel.app",
   location: "India",
   email: "sonudeo346@gmail.com",
   phone: "+91 9430836870",
